@@ -15,29 +15,29 @@
 		-  [x] Note Block | 13 |
 		-  [x] Oak Sign | 10 |
 		-  [ ] Vindicator | 9 |
-		-  [ ] Redstone Comparator | 8 |
-		-  [ ] Redstone Torch | 8 |
-		-  [ ] Redstone Repeater | 7 |
+		-  [x] Redstone Comparator | 8 |
+		-  [x] Redstone Torch | 8 |
+		-  [x] Redstone Repeater | 7 |
 		-  [ ] Pillager | 6 |
-		-  [ ] Fletching Table | 4 |
-		-  [ ] Sticky Piston | 4 |
-		-  [ ] Stone Stairs | 4 |
+		-  [x] Fletching Table | 4 |
+		-  [x] Sticky Piston | 4 |
+		-  [x] Stone Stairs | 4 |
 		-  [ ] Villager | 4 |
-		-  [ ] Dispenser | 3 |
-		-  [ ] Packed Ice | 3 |
-		-  [ ] Armor Stand | 2 |
-		-  [ ] Cauldron | 2 |
-		-  [ ] Iron Trapdoor | 2 |
+		-  [x] Dispenser | 3 |
+		-  [x] Packed Ice | 3 |
+		-  [x] Armor Stand | 2 |
+		-  [x] Cauldron | 2 |
+		-  [x] Iron Trapdoor | 2 |
 		-  [ ] Soul Sand | 2 |
-		-  [ ] Stone Button | 2 |
-		-  [ ] Water Bucket | 2 |
-		-  [ ] Beacon | 1 |
-		-  [ ] Block of Redstone | 1 |
-		-  [ ] Dropper | 1 |
+		-  [x] Stone Button | 2 |
+		-  [x] Water Bucket | 2 |
+		-  [x] Beacon | 1 |
+		-  [x] Block of Redstone | 1 |
+		-  [x] Dropper | 1 |
 		-  [ ] Evoker | 1 |
-		-  [ ] Grass Block | 1 |
+		-  [x] Grass Block | 1 |
 		-  [ ] Grindstone | 1 |
-		-  [ ] Lava Bucket | 1 |
-		-  [ ] Lever | 1 |
-		-  [ ] Magma Block | 1 |
-		-  [ ] String | 1 |
+		-  [x] Lava Bucket | 1 |
+		-  [x] Lever | 1 |
+		-  [x] Magma Block | 1 |
+		-  [x] String | 1 |
