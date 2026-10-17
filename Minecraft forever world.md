@@ -41,9 +41,3 @@
 		-  [x] Lever | 1 |
 		-  [x] Magma Block | 1 |
 		-  [x] String | 1 |
-
-
-> [!IMPORTANT]
-> TEST
-
-
