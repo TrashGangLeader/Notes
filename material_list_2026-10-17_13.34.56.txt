@@ -1,0 +1,48 @@
++----------------------+-------+---------+-----------+------------+--------------+
+| Material List for schematic 'RAID STACKING FARM' (1 of 1 regions)              |
++----------------------+-------+---------+-----------+------------+--------------+
+| Item                 | Total | Missing | Available | Total (sb) | Missing (sb) |
++----------------------+-------+---------+-----------+------------+--------------+
+| Glass                |   606 |     606 |         0 |    0,35 SB |      0,35 SB |
+| Block of Iron        |   164 |     164 |         0 |    0,09 SB |      0,09 SB |
+| Scaffolding          |    97 |      97 |         0 |    0,06 SB |      0,06 SB |
+| Smooth Stone         |    88 |      88 |         0 |    0,05 SB |      0,05 SB |
+| Oak Button           |    81 |      81 |         0 |    0,05 SB |      0,05 SB |
+| Chest                |    79 |      79 |         0 |    0,05 SB |      0,05 SB |
+| Hopper               |    48 |      48 |         0 |    0,03 SB |      0,03 SB |
+| Smooth Stone Slab    |    34 |      34 |         0 |    0,02 SB |      0,02 SB |
+| Observer             |    33 |      33 |         0 |    0,02 SB |      0,02 SB |
+| Redstone Dust        |    33 |      33 |         0 |    0,02 SB |      0,02 SB |
+| Piston               |    16 |      16 |         0 |    0,01 SB |      0,01 SB |
+| Note Block           |    13 |      13 |         0 |    0,01 SB |      0,01 SB |
+| Oak Sign             |    10 |      10 |         0 |    0,02 SB |      0,02 SB |
+| Vindicator Spawn Egg |     9 |       9 |         0 |    0,01 SB |      0,01 SB |
+| Redstone Comparator  |     8 |       8 |         0 |    0,00 SB |      0,00 SB |
+| Redstone Torch       |     8 |       8 |         0 |    0,00 SB |      0,00 SB |
+| Redstone Repeater    |     7 |       7 |         0 |    0,00 SB |      0,00 SB |
+| Pillager Spawn Egg   |     6 |       6 |         0 |    0,00 SB |      0,00 SB |
+| Fletching Table      |     4 |       4 |         0 |    0,00 SB |      0,00 SB |
+| Sticky Piston        |     4 |       4 |         0 |    0,00 SB |      0,00 SB |
+| Stone Stairs         |     4 |       4 |         0 |    0,00 SB |      0,00 SB |
+| Villager Spawn Egg   |     4 |       4 |         0 |    0,00 SB |      0,00 SB |
+| Dispenser            |     3 |       3 |         0 |    0,00 SB |      0,00 SB |
+| Packed Ice           |     3 |       3 |         0 |    0,00 SB |      0,00 SB |
+| Armor Stand          |     2 |       2 |         0 |    0,00 SB |      0,00 SB |
+| Cauldron             |     2 |       2 |         0 |    0,00 SB |      0,00 SB |
+| Iron Trapdoor        |     2 |       2 |         0 |    0,00 SB |      0,00 SB |
+| Soul Sand            |     2 |       2 |         0 |    0,00 SB |      0,00 SB |
+| Stone Button         |     2 |       2 |         0 |    0,00 SB |      0,00 SB |
+| Water Bucket         |     2 |       2 |         1 |    0,07 SB |      0,07 SB |
+| Beacon               |     1 |       1 |         0 |    0,00 SB |      0,00 SB |
+| Block of Redstone    |     1 |       1 |         0 |    0,00 SB |      0,00 SB |
+| Dropper              |     1 |       1 |         0 |    0,00 SB |      0,00 SB |
+| Evoker Spawn Egg     |     1 |       1 |         0 |    0,00 SB |      0,00 SB |
+| Grass Block          |     1 |       1 |         1 |    0,00 SB |      0,00 SB |
+| Grindstone           |     1 |       1 |         0 |    0,00 SB |      0,00 SB |
+| Lava Bucket          |     1 |       1 |         1 |    0,04 SB |      0,04 SB |
+| Lever                |     1 |       1 |         0 |    0,00 SB |      0,00 SB |
+| Magma Block          |     1 |       1 |         0 |    0,00 SB |      0,00 SB |
+| String               |     1 |       1 |         0 |    0,00 SB |      0,00 SB |
++----------------------+-------+---------+-----------+------------+--------------+
+| Item                 | Total | Missing | Available | Total (sb) | Missing (sb) |
++----------------------+-------+---------+-----------+------------+--------------+
