@@ -36,7 +36,7 @@
 		-  [x] Dropper | 1 |
 		-  [ ] Evoker | 1 |
 		-  [x] Grass Block | 1 |
-		-  [ ] Grindstone | 1 |
+		-  [x] Grindstone | 1 |
 		-  [x] Lava Bucket | 1 |
 		-  [x] Lever | 1 |
 		-  [x] Magma Block | 1 |
