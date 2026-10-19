@@ -19,4 +19,6 @@
 		- ### Pająk/Crawler - Program penetrujący sieć
 		- ### Bazy danych - indeksującej zasoby sieci , dokumenty i hyperlinki
 		- ### Gui przekazującego informacje
+
+
   
