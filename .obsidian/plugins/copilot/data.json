@@ -454,15 +454,6 @@
     {
       "providerId": "a3ef8876-95e3-44e4-ae57-8de61e552f0a",
       "info": {
-        "id": "opencode/space-bunny-free",
-        "displayName": "opencode/Space Bunny Free"
-      },
-      "configuredModelId": "5226e0a3-c777-444f-afa0-464590e0af71",
-      "configuredAt": 1792323642596
-    },
-    {
-      "providerId": "a3ef8876-95e3-44e4-ae57-8de61e552f0a",
-      "info": {
         "id": "opencode/beam-free",
         "displayName": "opencode/Beam Free"
       },
@@ -495,6 +486,15 @@
       },
       "configuredModelId": "cda599bd-543f-4317-b8e8-03246f8b7930",
       "configuredAt": 1792323642597
+    },
+    {
+      "providerId": "a3ef8876-95e3-44e4-ae57-8de61e552f0a",
+      "info": {
+        "id": "opencode/minimax-m3.1-flash-free",
+        "displayName": "opencode/MiniMax M3.1 Flash Free"
+      },
+      "configuredModelId": "1057978a-88c1-4828-a4db-1e3c03596c7b",
+      "configuredAt": 1792490454460
     }
   ],
   "backends": {
@@ -533,10 +533,7 @@
         "description": "A frontier open-weight model.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
@@ -594,10 +591,7 @@
         "description": "The July 2026 DeepSeek V4 Flash snapshot: fast, cheap, and broadly capable.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
