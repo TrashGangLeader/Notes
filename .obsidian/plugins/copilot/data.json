@@ -386,7 +386,7 @@
           "binaryPath": "C:\\Users\\Kacper\\.obsidian-copilot\\opencode\\2.0.22\\bin\\opencode.exe",
           "binaryVersion": "2.0.22",
           "binarySource": "managed",
-          "probeSessionId": "ses_eb12f9d9fffeFig22Sg166xxSN"
+          "probeSessionId": "ses_e90e7ad42ffesrqPPJe9KKV5ah"
         }
       }
     }
@@ -414,15 +414,6 @@
       },
       "configuredModelId": "00b490bd-f99e-4b93-b013-cba3240c5416",
       "configuredAt": 1792323642595
-    },
-    {
-      "providerId": "a3ef8876-95e3-44e4-ae57-8de61e552f0a",
-      "info": {
-        "id": "opencode/longcat-2.5-preview-free",
-        "displayName": "opencode/LongCat 2.5 Preview Free"
-      },
-      "configuredModelId": "931827bb-912f-42e8-a6ab-fb754f4de48b",
-      "configuredAt": 1792323642596
     },
     {
       "providerId": "a3ef8876-95e3-44e4-ae57-8de61e552f0a",
@@ -490,18 +481,17 @@
     {
       "providerId": "a3ef8876-95e3-44e4-ae57-8de61e552f0a",
       "info": {
-        "id": "opencode/minimax-m3.1-flash-free",
-        "displayName": "opencode/MiniMax M3.1 Flash Free"
+        "id": "opencode/flint-40b-free",
+        "displayName": "opencode/Flint 40B Free"
       },
-      "configuredModelId": "1057978a-88c1-4828-a4db-1e3c03596c7b",
-      "configuredAt": 1792490454460
+      "configuredModelId": "79975d5f-6929-46a3-9349-48104fa8f6a3",
+      "configuredAt": 1792865227996
     }
   ],
   "backends": {
     "opencode": {
       "enabledModels": [
-        "00b490bd-f99e-4b93-b013-cba3240c5416",
-        "931827bb-912f-42e8-a6ab-fb754f4de48b"
+        "00b490bd-f99e-4b93-b013-cba3240c5416"
       ]
     }
   },
