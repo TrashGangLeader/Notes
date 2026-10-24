@@ -19,6 +19,11 @@
 		- ### Pająk/Crawler - Program penetrujący sieć
 		- ### Bazy danych - indeksującej zasoby sieci , dokumenty i hyperlinki
 		- ### Gui przekazującego informacje
+- # Zasada dzialania systemu wyszukiwawczego
+- # Relewancja i miary:
+	- ## Relewancja to subiektywna miara jakosci odpowiedzi na zapytanie
+		- ### Precision - % relewantnych dokumentow wsrod wszystkich zwroconych
+		- ### Recall - % relewantnych dokumentow odnalezionych przez system wsrod wszystkich relewantnych w kolekcji
 
 
   
